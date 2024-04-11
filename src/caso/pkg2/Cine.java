@@ -6,7 +6,7 @@ package caso.pkg2;
 
 /**
  *
- * @author sombr
+ * @author byron
  */
 import javax.swing.JOptionPane;
 
